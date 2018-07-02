@@ -29,7 +29,9 @@ $tyros_options = tyros_get_options();
 <?php $bg_image_src = get_template_directory_uri() . '/inc/images/bg/' . esc_attr( $tyros_options['tyros_theme_background_pattern'] ) . '.png'; ?>
 
 <body <?php body_class(); ?> style="background-image: url(<?php echo esc_url( $bg_image_src ); ?>);">
-
+  <!-- <div class="">
+    hola
+  </div> -->
     <div id="page" class="site">
 
 	<header id="masthead" class="site-header">

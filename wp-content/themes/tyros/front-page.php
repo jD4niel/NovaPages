@@ -128,14 +128,24 @@ $strap_check        = function_exists( 'tyros_strap_pl' ) && tyros_strap_pl() ? 
 
                 </div>
 
+
+            </div>
+            <div class="col-sm-12 fondo-blanco" align="center">
+              <h1>Ubicación</h1>
+              <h3 class="col-sm-12 camera-caption"><strong>NOVA ELECTRIC</strong> cuenta con dos unidades de negocio ubicadas en Pachuca y Tecámac, logrando abarcar los principales mercados tanto del estado de Hidalgo como del Estado de México.</h3>
+              <div class="col-sm-6 fondo-blue wow flipInX"  data-wow-duration="2s" data-wow-delay="0.1s">
+                <h3>Ubicación en Pachuca</h3>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d556.9288122078588!2d-98.727335909158!3d20.110858359834577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1a75e4584ed71%3A0x8a728b9190566c48!2sNova+Electric!5e0!3m2!1ses!2smx!4v1530492027864" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+              </div>
+              <div class="col-sm-6 fondo-blue wow flipInX"  data-wow-duration="2s" data-wow-delay="0.2s">
+                <h3>Ubicación en Tecámac</h3>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.927584175504!2d-98.97481568566015!3d19.715706986724154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ed28b1112a85%3A0x8dbb9afc9151fe76!2sNova+El%C3%A9ctric!5e0!3m2!1ses!2smx!4v1530507709682" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+              </div>
+          </div>
             </div>
 
         </div>
-        <div id="mapas" class="row">
-        <div class="col-sm-12 boxed-wrap">
-            hola a todos
-        </div>
-        </div>
+
     </main>
 
 </div>
